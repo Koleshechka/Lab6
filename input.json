@@ -1,0 +1,56 @@
+[
+  {
+    "id": 6,
+    "name": "Pain",
+    "coordinates":
+    {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "",
+    "price": 59.99,
+    "unitOfMeasure": "KILOGRAMS",
+    "manufacturer": {
+      "id": "",
+      "name": "Isaev",
+      "annualTurnover": 1445000000.0,
+      "type": "GOVERNMENT"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tears",
+    "coordinates":
+    {
+      "x": 0,
+      "y": 0
+    },
+    "creationDate": "2021-04-05T16:45:36.289913+03:00[Europe/Moscow]",
+    "price": 0.01,
+    "unitOfMeasure": "LITERS",
+    "manufacturer": {
+      "id": 2,
+      "name": "Sveta",
+      "annualTurnover": 1.5,
+      "type": "PRIVATE_LIMITED_COMPANY"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pain",
+    "coordinates":
+    {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "",
+    "price": 59.99,
+    "unitOfMeasure": "KILOGRAMS",
+    "manufacturer": {
+      "id": "",
+      "name": "Isaev",
+      "annualTurnover": 1445000000.0,
+      "type": "GOVERNMENT"
+    }
+  }
+]

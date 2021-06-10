@@ -1,0 +1,4 @@
+execute_script "scriptfile2"
+clear
+show
+execute_script "scriptfile2"
